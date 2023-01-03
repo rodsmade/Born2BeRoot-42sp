@@ -33,3 +33,8 @@ SSH
 ## Submission 
 This projects submission is a SHA hash of the virtual machine in its final state prior to evaluation. It was necessary to take a snapshot within Virtualbox to save the VM state, as it would be altered during each project defense.
 I've included in this repository the shell script used to make the monitoring panel as well.
+
+## Final note
+If you're a 42 student struggling to understand this project, I got your back! Please refer to this Notion page that I wrote covering the general concepts related to this project! It's in Portuguese :cactus:
+
+> [Acelera — Born2BeRoot](https://rodsmade.notion.site/Acelera-Born2BeRoot-99adac7a7bdc4bbf81b4eaf977625d5c)
